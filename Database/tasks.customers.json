@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "648f20ecfccb918403bfef7b"
+  },
+  "fullName": "Orel Mor",
+  "job": "Fullstack dev",
+  "phone": "050-581-6956",
+  "email": "orel@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "648f2149fccb918403bfef7c"
+  },
+  "fullName": "Orel dav",
+  "job": "Dev ops",
+  "phone": "050-581-5667",
+  "email": "orel89@gmail.com"
+}]
